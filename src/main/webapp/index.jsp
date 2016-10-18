@@ -2,7 +2,7 @@
 
 <head>
 
-<title>ÆTERNAM XDI Demo - ÖBB</title>
+<title>AETERNAM XDI Demo - OEBB</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta charset="UTF-8"> 
 
